@@ -1,0 +1,3 @@
+[submodule "monsters-rolodex"]
+	path = monsters-rolodex
+	url = git@github.com:akarms/monsters-rolodex.git
