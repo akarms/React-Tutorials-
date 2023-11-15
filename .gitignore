@@ -3,6 +3,6 @@
 My React Tutorials Learnings and notes
 
 # Ignore node_modules directory
-First/monsters-rolodex/node_modules/
-First/some basic with rejected files included/node_modules/
+First/monsters-rolodex/node_modules
+First/some basic with rejected files included/node_modules
 
